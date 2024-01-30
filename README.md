@@ -2,9 +2,9 @@
 
 ## Project Contributors
 
-- **Anshul** - `21scse1010921`
-- **Fiyanshu** - `21scse1010553`
-- **Akshat** - `21scse1011212`
+- **Anshul Panchal** - `21scse1010921`
+- **Fiyanshu Gupta** - `21scse1010553`
+- **Akshat Gandhi** - `21scse1011212`
 
 ## 1. Introduction
 
