@@ -1,5 +1,11 @@
 # Binary Tree and Array Visualizer
 
+## Project Contributors
+
+- **Anshul** - `21scse1010921`
+- **Fiyanshu** - `21scse1010553`
+- **Akshat** - `21scse1011212`
+
 ## 1. Introduction
 
 ### 1.1 Background
